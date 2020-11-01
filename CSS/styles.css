@@ -116,19 +116,19 @@ hr {
 }
 
 .coding {
-  width: 35%;
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
 
 .drawing {
-  width: 35%;
+  width: 25%;
   float: right;
   margin-left: 30px;
 }
 
 .stationery {
-  width: 35%;
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
